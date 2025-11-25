@@ -1,0 +1,3 @@
+SQL stands for Structured Query Language.  
+it is a relational database
+Popular SQL Databases: PostgreSQL, MySQL,
