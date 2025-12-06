@@ -1,3 +1,7 @@
 SQL stands for Structured Query Language.  
 it is a relational database
-Popular SQL Databases: PostgreSQL, MySQL,
+Popular SQL Databases: PostgreSQL, MySQL
+
+Tables with Rows and Columns. -->MDB is in JSON like data
+
+we create database and click on quey tool (where we write code)
