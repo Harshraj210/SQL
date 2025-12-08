@@ -41,3 +41,7 @@ FOR UPDATING
  UPDATE chai_store
 SET price = 50.00 , available= TRUE
 WHERE chai_name = 'ICED CHAI'
+
+ for deleting
+ DELETE FROM chai_store
+WHERE chai_name = 'BLACK CHAI'
