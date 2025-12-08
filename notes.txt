@@ -26,3 +26,7 @@ SELECT *
 FROM chai_store 
 WHERE chai_name= 'BLACK CHAI'
 WHERE CLAUESE ALWAYS BE IN SINGLE
+
+SELECT * 
+FROM chai_store 
+WHERE chai_name LIKE '%CHAI%'
