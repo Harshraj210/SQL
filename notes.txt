@@ -34,3 +34,10 @@ WHERE chai_name LIKE '%CHAI%'
 SELECT * 
 FROM chai_store 
 ORDER BY price DESC
+
+if we dont provide DESC IT WILL BE ASECDING 
+
+FOR UPDATING
+ UPDATE chai_store
+SET price = 50.00 , available= TRUE
+WHERE chai_name = 'ICED CHAI'
