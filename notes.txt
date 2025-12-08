@@ -30,3 +30,7 @@ WHERE CLAUESE ALWAYS BE IN SINGLE
 SELECT * 
 FROM chai_store 
 WHERE chai_name LIKE '%CHAI%'
+
+SELECT * 
+FROM chai_store 
+ORDER BY price DESC
