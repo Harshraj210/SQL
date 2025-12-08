@@ -5,3 +5,24 @@ Popular SQL Databases: PostgreSQL, MySQL
 Tables with Rows and Columns. -->MDB is in JSON like data
 
 we create database and click on quey tool (where we write code)
+
+query is  command that you give to your database
+
+WE USE PRIMARY KEY 
+1. Uniquely identifies each row
+2. Can never be duplicated
+3. Can never be NULL (empty)
+
+DECIMAL --> Data type for exact numbers with decimalsLIKE 5,2
+
+5
+Total number of digits allowed (before + after decimal)
+2 IS TOTAL NO. OF DIGITS AFTER DE3C\IMA;L P[OINTS]
+
+SELECT chai_name AS "chai name",price AS "cost in INR" FROM chai_store 
+-- it should always be in "" single''
+
+SELECT * 
+FROM chai_store 
+WHERE chai_name= 'BLACK CHAI'
+WHERE CLAUESE ALWAYS BE IN SINGLE
